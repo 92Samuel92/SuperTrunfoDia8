@@ -2,26 +2,26 @@ var carta1={
   nome:"Spiderman",
   imagem:"https://i.pinimg.com/564x/8a/ca/7e/8aca7e0d80eb7a3998fbd153a53d8c3c.jpg",
   atributos:{
-  HAttack:" 100",
-  Defense:" 50",
-  HeSpeed:" 50"
+  HAttack:" 40",
+  Defense:" 30",
+  HeSpeed:" 10"
   }
   }
 var carta2={
   nome:"Batman",
   imagem:"https://i.pinimg.com/564x/fb/1a/98/fb1a98e6f67543184224f0206a56e907.jpg",
   atributos:{
-  HAttack:" 60",
+  HAttack:" 45",
   Defense:" 50",
-  HeSpeed:" 80"}
+  HeSpeed:" 25"}
   }
 var carta3={
   nome:"Flash",
   imagem:"https://i.pinimg.com/564x/59/f6/b5/59f6b519a964477b9a176a0db085fef2.jpg",
   atributos:{
-  HAttack:" 70",
-  Defense:" 90",
-  HeSpeed:" 100"}
+  HAttack:" 45",
+  Defense:" 30",
+  HeSpeed:" 90"}
   }
 
 var cartaMaquina
